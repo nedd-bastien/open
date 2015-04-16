@@ -8,7 +8,7 @@ var toto = 77;
 
 var robert =
 {
-	valeur: 23,
+	valeur: 27,
 	machin: "oups",
 	martha: {
 		nom:     "martha",
