@@ -14,7 +14,7 @@ var robert =
 		nom:     "martha",
 		prenom:  "ginette",
 		truc:    "wow",
-		machin2: 33
+		machin2: 39
 	}
 };
 
