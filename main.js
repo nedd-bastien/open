@@ -21,10 +21,6 @@ console.log('testddd');
 console.log('test');
 console.log('test');
 
-robert.valeur++;
-robert.valeur++;
-robert.valeur++;
-robert.valeur++;
 
 console.log(
 	'test ' + (toto * robert.valeur)
