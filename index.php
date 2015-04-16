@@ -1,3 +1,5 @@
+<body>
+
 <?php
 /**
  * Created by PhpStorm.
@@ -6,6 +8,12 @@
  * Time: 16:28
  */
 
-echo 'hi there, you ! How is everything ?';
+$testvar = 'trouloulou ' . srand(390874);
 
+echo 'hi there ! How is everything today ? ' . $testvar;
 
+?>
+
+</body>
+
+<script type="text/javascript" src="main.js"></script>
