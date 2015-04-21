@@ -14,6 +14,9 @@ echo 'hi there ! How is everything today ? ' . $testvar;
 
 ?>
 
+	<br>
+	Bienvenue sur slack
+
 </body>
 
 <script type="text/javascript" src="main.js"></script>

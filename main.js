@@ -18,13 +18,35 @@ var robert =
 	}
 };
 
-console.log('testddd');
+console.log('testddd4');
 console.log('test');
 console.log('test');
-
 
 console.log(
 	'test ' + (toto * robert.valeur)
 );
 
 console.log('test');
+
+
+function un()
+{
+
+
+	gsdgsg = 1;
+}
+
+
+function deux()
+{
+
+
+	gsdgsg = 1;
+}
+
+function trois()
+{
+
+
+	gsdgsg = 1;
+}
