@@ -14,7 +14,8 @@ var robert =
 		nom:     "martha",
 		prenom:  "ginette",
 		truc:    "wow",
-		machin2: 39516.416581681
+		machin2: 39516.416581681,
+		bidule: 7
 	}
 };
 
@@ -28,12 +29,14 @@ console.log(
 
 console.log('test');
 
+demarre();
 
-function un()
+function demarre()
 {
 
 
 	gsdgsg = 1;
+	deux();
 }
 
 
@@ -42,6 +45,7 @@ function deux()
 
 
 	gsdgsg = 1;
+	trois();
 }
 
 function trois()
